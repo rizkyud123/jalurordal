@@ -1,0 +1,6 @@
+{
+  "name": "JalurOrdal.id",
+  "description": "Platform bimbingan persiapan beasiswa dan pendaftaran kuliah dalam & luar negeri premium terpercaya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
